@@ -12,7 +12,7 @@
 $ jakob --about
 ```
 
-I'm a fresh Software Engineering grad from the [Rochester Institute of Technology](https://www.rit.edu) (B.S., 2026) and an alum of the [Society of Software Engineers](https://sse.rit.edu). I build native Apple apps, ship the occasional web tool, and write low-level C when I want to feel things. Currently looking for a **new-grad software engineering role** — say hi.
+I'm a fresh Software Engineering grad from the [Rochester Institute of Technology](https://www.rit.edu) (B.S., 2026) and former President of the [Society of Software Engineers](https://sse.rit.edu). I build native Apple apps, ship the occasional web tool, and write low-level C when I want to feel things. Currently looking for a **new-grad software engineering role** — say hi.
 
 - Site: [jjalangtry.com](https://jjalangtry.com) (it's a terminal — try `help`)
 - Org: [@SocietyOfSoftwareEngineers](https://github.com/SocietyOfSoftwareEngineers)
