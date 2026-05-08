@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://jjalangtry.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A9B1D6&center=true&vCenter=true&width=620&height=46&lines=%24+whoami;jakob+langtry+%E2%80%94+software+engineer%2C+RIT+'27;%24+cat+~%2Fstatus.txt;open+to+co-op+%E2%9D%A4+rochester%2C+ny;%24+ls+~%2Fprojects%2F+%7C+head;swift%2C+typescript%2C+c%2C+a+little+6502+asm" alt="terminal typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A9B1D6&center=true&vCenter=true&width=680&height=46&lines=%24+whoami;jakob+langtry+%E2%80%94+software+engineer%2C+RIT+B.S.+'26;%24+cat+~%2Fstatus.txt;open+to+new-grad+SWE+roles+%E2%9D%A4+rochester%2C+ny;%24+ls+~%2Fprojects%2F+%7C+head;swift%2C+typescript%2C+c%2C+a+little+6502+asm" alt="terminal typing header" />
 </a>
 
 </div>
@@ -12,7 +12,7 @@
 $ jakob --about
 ```
 
-I'm a Software Engineering student at the [Rochester Institute of Technology](https://www.rit.edu) and a member of the [Society of Software Engineers](https://sse.rit.edu). I build native Apple apps, ship the occasional web tool, and write low-level C when I want to feel things. Currently looking for a **Summer / Fall co-op** — say hi.
+I'm a fresh Software Engineering grad from the [Rochester Institute of Technology](https://www.rit.edu) (B.S., 2026) and an alum of the [Society of Software Engineers](https://sse.rit.edu). I build native Apple apps, ship the occasional web tool, and write low-level C when I want to feel things. Currently looking for a **new-grad software engineering role** — say hi.
 
 - Site: [jjalangtry.com](https://jjalangtry.com) (it's a terminal — try `help`)
 - Org: [@SocietyOfSoftwareEngineers](https://github.com/SocietyOfSoftwareEngineers)
@@ -27,10 +27,8 @@ $ ls ~/sites/
 | | | |
 |---|---|---|
 | [`jjalangtry.com`](https://jjalangtry.com) | terminal personal site | <kbd>type `help`</kbd> |
-| [`resume.jjalangtry.com`](https://resume.jjalangtry.com) | always-current resume | <kbd>co-op</kbd> |
+| [`resume.jjalangtry.com`](https://resume.jjalangtry.com) | always-current resume | <kbd>new-grad</kbd> |
 | [`music.jjalangtry.com`](https://music.jjalangtry.com) | Spotify ↔ Apple Music converter, ISRC-matched | <kbd>web</kbd> |
-| [`cardhunt.jjalangtry.com`](https://cardhunt.jjalangtry.com) | sports-card price aggregator (eBay, COMC, Goldin, PWCC) | <kbd>web</kbd> |
-| [`code.jjalangtry.com`](https://code.jjalangtry.com) | self-hosted T3Code dev environment | <kbd>self-hosted</kbd> |
 
 ---
 
@@ -182,7 +180,7 @@ $ jakob --trophies
 <div align="center">
 
 <sub>
-Rochester, NY &nbsp;&middot;&nbsp; open to co-op &nbsp;&middot;&nbsp;
+Rochester, NY &nbsp;&middot;&nbsp; open to new-grad SWE roles &nbsp;&middot;&nbsp;
 <a href="https://jjalangtry.com">jjalangtry.com</a>
 </sub>
 
