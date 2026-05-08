@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://jakoblangtry.com">
+<a href="https://jjalangtry.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A9B1D6&center=true&vCenter=true&width=620&height=46&lines=%24+whoami;jakob+langtry+%E2%80%94+software+engineer%2C+RIT+'27;%24+cat+~%2Fstatus.txt;open+to+co-op+%E2%9D%A4+rochester%2C+ny;%24+ls+~%2Fprojects%2F+%7C+head;swift%2C+typescript%2C+c%2C+a+little+6502+asm" alt="terminal typing header" />
 </a>
 
@@ -14,7 +14,7 @@ $ jakob --about
 
 I'm a Software Engineering student at the [Rochester Institute of Technology](https://www.rit.edu) and a member of the [Society of Software Engineers](https://sse.rit.edu). I build native Apple apps, ship the occasional web tool, and write low-level C when I want to feel things. Currently looking for a **Summer / Fall co-op** — say hi.
 
-- Site: [jakoblangtry.com](https://jakoblangtry.com) (it's a terminal — try `help`)
+- Site: [jjalangtry.com](https://jjalangtry.com) (it's a terminal — try `help`)
 - Org: [@SocietyOfSoftwareEngineers](https://github.com/SocietyOfSoftwareEngineers)
 - Based in: Rochester, NY
 
@@ -169,7 +169,7 @@ $ jakob --trophies
 
 <sub>
 Rochester, NY &nbsp;&middot;&nbsp; open to co-op &nbsp;&middot;&nbsp;
-<a href="https://jakoblangtry.com">jakoblangtry.com</a>
+<a href="https://jjalangtry.com">jjalangtry.com</a>
 </sub>
 
 <br />
