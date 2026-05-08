@@ -21,6 +21,20 @@ I'm a Software Engineering student at the [Rochester Institute of Technology](ht
 ---
 
 ```bash
+$ ls ~/sites/
+```
+
+| | | |
+|---|---|---|
+| [`jjalangtry.com`](https://jjalangtry.com) | terminal personal site | <kbd>type `help`</kbd> |
+| [`resume.jjalangtry.com`](https://resume.jjalangtry.com) | always-current resume | <kbd>co-op</kbd> |
+| [`music.jjalangtry.com`](https://music.jjalangtry.com) | Spotify ↔ Apple Music converter, ISRC-matched | <kbd>web</kbd> |
+| [`cardhunt.jjalangtry.com`](https://cardhunt.jjalangtry.com) | sports-card price aggregator (eBay, COMC, Goldin, PWCC) | <kbd>web</kbd> |
+| [`code.jjalangtry.com`](https://code.jjalangtry.com) | self-hosted T3Code dev environment | <kbd>self-hosted</kbd> |
+
+---
+
+```bash
 $ jakob --stack
 ```
 
